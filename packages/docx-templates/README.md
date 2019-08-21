@@ -1,3 +1,5 @@
+# This package is depreciated
+Please go to the origin ([guigrpa/docx-templates](https://github.com/guigrpa/docx-templates))
 # This is a fork
 This fork is for a simple and compact `INS` syntax which you can omit `=` or `INS`. For example: from `+++=foo+++` to `|foo|`.
 Also, you can define `cmdDelimiter` as an Array containing start and end delimiter. For example:
